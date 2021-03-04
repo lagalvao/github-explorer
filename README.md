@@ -4,7 +4,7 @@
 <h3>✅ Status do projeto</h3>
 <h4>Projeto em construção... 🧱</h4>
 
-###✅ Features
+### ✅ Features
 - [x] - Buscar por repositórios
 - [x] - Listar repositórios
 - [x] - Mostrar informações dos repositórios
@@ -20,19 +20,19 @@
 Para facilitar o desenvolvimento é interessante possuir um editor de código como o VSCode (https://code.visualstudio.com/).</p>
 
 ### Rodando a aplicação
-<p>Abre o seu terminal e rode o comando abaixo</p>
+#### Abre o seu terminal e rode o comando abaixo
 $ git clone https://github.com/lagalvao/github-explorer.git
 
-<p>Em seguida entre na pasta do projeto</p>
+#### Em seguida entre na pasta do projeto
 $ cd github-explorer
 
-<p>Depois rode o comando abaixo para instalar as dependências</p>
+#### Depois rode o comando abaixo para instalar as dependências
 $ npm install
 
-<p>Por fim execute a aplicação no modo de desenvolvimento</p>
+#### Por fim execute a aplicação no modo de desenvolvimento
 $ npm start
 
-###🛠 Tecnologias utilizadas
+### 🛠 Tecnologias utilizadas
 - [React] (https://pt-br.reactjs.org/)
 - [Typescript] (https://www.typescriptlang.org/)
 - [Styled-components] (https://styled-components.com/)
