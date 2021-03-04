@@ -5,10 +5,10 @@
 <h4>Projeto em construção... 🧱</h4>
 
 <h3>✅ Features</h3>
-- [X] - Buscar por repositórios
-- [X] - Listar repositórios
-- [X] - Mostrar informações dos repositórios
-- [ ] - Responsividade da aplicação
+-[X] - Buscar por repositórios
+-[X] - Listar repositórios
+-[X] - Mostrar informações dos repositórios
+-[ ] - Responsividade da aplicação
 
 <h3>✅ Demostração da aplicação</h3>
 <h1 align="center">
