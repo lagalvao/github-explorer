@@ -1,4 +1,4 @@
-# GitHub Explorer
+<h1 align="center">GitHub Explorer</h1>
 <p align="center">A aplicação tem o objetivo de listar os seus respositórios favoritos do github e listar suas informações</p>
 
 <h3>✅ Status do projeto</h3>
