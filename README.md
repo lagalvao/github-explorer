@@ -4,11 +4,11 @@
 <h3>✅ Status do projeto</h3>
 <h4>Projeto em construção... 🧱</h4>
 
-<h3>✅ Features</h3>
--[X] - Buscar por repositórios
--[X] - Listar repositórios
--[X] - Mostrar informações dos repositórios
--[ ] - Responsividade da aplicação
+###✅ Features
+- [x] - Buscar por repositórios
+- [x] - Listar repositórios
+- [x] - Mostrar informações dos repositórios
+- [ ] - Responsividade da aplicação
 
 <h3>✅ Demostração da aplicação</h3>
 <h1 align="center">
@@ -32,7 +32,7 @@ $ npm install
 <p>Por fim execute a aplicação no modo de desenvolvimento</p>
 $ npm start
 
-<h3>🛠 Tecnologias utilizadas</h3>
+###🛠 Tecnologias utilizadas
 - [React] (https://pt-br.reactjs.org/)
 - [Typescript] (https://www.typescriptlang.org/)
 - [Styled-components] (https://styled-components.com/)
